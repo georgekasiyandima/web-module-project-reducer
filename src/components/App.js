@@ -4,6 +4,7 @@ import './App.css';
 
 import TotalDisplay from './TotalDisplay';
 import CalcButton from './CalcButton';
+import { useReducer } from 'react';
 
 function App() {
   return (
